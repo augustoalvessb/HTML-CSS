@@ -6,3 +6,4 @@
 - ex002 - parágrafos, quebra de linhas, emojis e alguns simbolos especiais
 - ex003 - Adicionando algumas Imagens
 - ex004 - Adicionando favicon 
+- ex005 - Hierarguia de títulos
