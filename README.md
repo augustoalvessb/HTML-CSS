@@ -9,4 +9,4 @@
 - ex005 - Hierarguia de títulos
 - ex006 - Negrito, texto inserido/subscrito/sobrescrito/deletado/marcado/grande e pequeno/marcado/etc.
 - ex007 - Citações, abreviações e código fonte em HTML.
-- 
+- ex008 - Criando listas ordenadas/não ordenadas/mistas e listas de Definições
