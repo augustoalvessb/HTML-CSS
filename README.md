@@ -12,3 +12,4 @@
 - ex008 - Criando listas ordenadas/não ordenadas/mistas e listas de Definições
 - ex009 - 3 paginas ligadas por Ancoras e links
 - ex010 - Imagens diminuem conforme tamanho da tela e reprodução de música do site
+- ex011 - Vídeos internos e externos(youtube)
