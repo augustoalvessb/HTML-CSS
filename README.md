@@ -16,3 +16,8 @@
 - ex012-css - Adicionando estilos Inline (na própria linha)
 - ex013-css - Adicionando estilos Internos (Dentro do <head>)
 - ex014-css - Adicionando estilos Externos
+- ex015-css - Estudo de cores
+  - cor1 - Diferentes formas de Representação de cores
+  - cor2 - Gradientes
+  - cor3 - Exemplo de página de site
+  
