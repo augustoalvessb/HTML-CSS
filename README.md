@@ -13,4 +13,4 @@
 - ex009 - 3 paginas ligadas por Ancoras e links
 - ex010 - Imagens diminuem conforme tamanho da tela e reprodução de música do site
 - ex011 - Vídeos internos e externos(youtube)
-- ex012.css - Adicionando estilos Inline
+- ex012-css - Adicionando estilos Inline
