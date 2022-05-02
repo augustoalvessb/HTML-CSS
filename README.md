@@ -15,3 +15,4 @@
 - ex011 - Vídeos internos e externos(youtube)
 - ex012-css - Adicionando estilos Inline (na própria linha)
 - ex013-css - Adicionando estilos Internos (Dentro do <head>)
+- ex014-css - Adicionando estilos Externos
