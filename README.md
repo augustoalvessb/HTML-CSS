@@ -20,4 +20,4 @@
   - cor1 - Diferentes formas de Representação de cores
   - cor2 - Gradientes
   - cor3 - Exemplo de página de site
-  
+- ex016-css - Fontes internas do CSS
