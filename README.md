@@ -14,10 +14,11 @@
 - ex010 - Imagens diminuem conforme tamanho da tela e reprodução de música do site
 - ex011 - Vídeos internos e externos(youtube)
 - ex012-css - Adicionando estilos Inline (na própria linha)
-- ex013-css - Adicionando estilos Internos (Dentro do <head>)
+- ex013-css - Adicionando estilos Internos (Dentro do &lt;head&gt;)
 - ex014-css - Adicionando estilos Externos
 - ex015-css - Estudo de cores
   - cor1 - Diferentes formas de Representação de cores
   - cor2 - Gradientes
   - cor3 - Exemplo de página de site
 - ex016-css - Fontes internas do CSS
+- ex017-css - Importando fontes externas do Google Fontes
