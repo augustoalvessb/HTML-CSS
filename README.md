@@ -21,4 +21,4 @@
   - cor2 - Gradientes
   - cor3 - Exemplo de página de site
 - ex016-css - Fontes internas do CSS
-- ex017-css - Importando fontes externas do Google Fontes
+- ex017-css - Importando fontes externas do Google Fonts
