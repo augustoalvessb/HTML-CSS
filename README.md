@@ -22,3 +22,4 @@
   - cor3 - Exemplo de página de site
 - ex016-css - Fontes internas do CSS
 - ex017-css - Importando fontes externas do Google Fonts
+- ex018-css - Aplicando fontes baixadas de sites externos
