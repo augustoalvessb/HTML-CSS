@@ -24,3 +24,4 @@
 - ex017-css - Importando fontes externas do Google Fonts
 - ex018-css - Aplicando fontes baixadas de sites externos
 - ex019-css - Adicionando alguns alinhamentos nos textos e títulos
+- ex020-css - Aprendendo a utilizar Seletores personalizados id e class
