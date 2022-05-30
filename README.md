@@ -26,3 +26,4 @@
 - ex019-css - Adicionando alguns alinhamentos nos textos e títulos
 - ex020-css - Aprendendo a utilizar Seletores personalizados id e class
 - ex021-css - Adicionando Pseudo-classes e Pseudo-elementos
+- ex022-css - Caixas, bordas e grouping tags
