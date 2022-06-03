@@ -27,3 +27,4 @@
 - ex020-css - Aprendendo a utilizar Seletores personalizados id e class
 - ex021-css - Adicionando Pseudo-classes e Pseudo-elementos
 - ex022-css - Funcionamento de caixas, bordas e grouping tags
+- ex023-css - Aprendendo posicionamento de fundos
