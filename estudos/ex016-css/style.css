@@ -1,0 +1,17 @@
+@charset "UTF-8";
+body {
+    background-image: radial-gradient(circle, #6c15bdbe 35%, #73d0ff);
+    background-attachment: fixed;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    /*
+    Medidas Absolutas:
+    cm, mm, in, px, pt, pc
+    
+    Medidas Relativas:
+    em(relativo ao M maiusculo de uma fonte), ex(relativo a altura x de uma fonte), rem(fonte que esta no body), vw(relativo ao tamanho da tela), vh(altura da viewport) %
+    */
+    font-size: 1.2em
+}
+h1, h2 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}

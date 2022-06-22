@@ -1,0 +1,17 @@
+@charset "UTF-8";
+@font-face {
+    font-family: 'Eggs';
+    src: url(fontes/BunnyEggsDemo.otf) format('opentype'), url(fontes/BunnyEggsDemo.ttf) format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+body {
+    background-image: linear-gradient(#f5101f 15%, #ffffff,  #eb0000a2);
+    background-attachment: fixed;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 17.5px;
+}
+h1, h2 {
+    font-family: 'Eggs', Georgia, 'Times New Roman', Times, serif;
+    font-size: 5em;
+}
