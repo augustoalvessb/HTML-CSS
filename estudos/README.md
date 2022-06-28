@@ -28,3 +28,4 @@
 - ex021-css - Adicionando Pseudo-classes e Pseudo-elementos
 - ex022-css - Funcionamento de caixas, bordas e grouping tags
 - ex023-css - Aprendendo posicionar fundos
+- ex024-css - Aprendendo criação de Tabelas
