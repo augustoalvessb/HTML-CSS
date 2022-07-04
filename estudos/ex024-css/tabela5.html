@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Agrupando Colunas</title>
+    <style>
+        body {
+            font-family: Arial, Helvetica, sans-serif;
+        }
+        table {
+            border-collapse: collapse;
+            width: 400px;
+        }
+        caption, tr, td, th {
+            padding: 5px;
+            border: 2px solid black;
+        }
+        col.cnome {
+            background-color: aqua;
+        }
+        col.csexo {
+            background-color: rgba(137, 43, 226, 0.327);
+        }
+        col.cprofissao {
+            background-color: cadetblue;
+        }
+    </style>
+</head>
+<body>
+    <table>
+        <colgroup>
+            <col class="cnome">
+            <col class="csexo" span="2">
+            <col class="cprofissao">
+        </colgroup>
+        <caption>Cadastro</caption>
+        <thead>
+            <tr>
+                <th>Nome</th>
+                <th>Sexo</th>
+                <th>Idade</th>
+                <th>Profissão</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Ana</td>
+                <td>F</td>
+                <td>25</td>
+                <td>Jornalista</td>
+            </tr>
+            <tr>
+                <td>Claúdio</td>
+                <td>M</td>
+                <td>24</td>
+                <td>Programador</td>
+            </tr>
+            <tr>
+                <td>Neusa</td>
+                <td>F</td>
+                <td>32</td>
+                <td>Vendedora</td>
+            </tr>
+            <tr>
+                <td>Jonas</td>
+                <td>M</td>
+                <td>20</td>
+                <td>Médico</td>
+            </tr>
+            <tr>
+                <td>Mary</td>
+                <td>F</td>
+                <td>23</td>
+                <td>Marketing</td>
+            </tr>
+            <tr>
+                <td>Dani</td>
+                <td>F</td>
+                <td>28</td>
+                <td>Nutricionista</td>
+            </tr>
+        </tbody>
+    </table>
+</body>
+</html>
