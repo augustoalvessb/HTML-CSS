@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Imagens Flexivel</title>
+    <style>
+        body {
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <h1>Imagem Flexível</h1>
+    <p>Adicionando imagem flexivel pequena, média e grande!</p>
+    <picture>
+        <source media="(max-width: 800px)" srcset="desafio007/paisagem-p.png" type="image/png">
+        <source media="(max-width: 1250px)" srcset="desafio007/paisagem-m.png" type="image/png">
+        <img src="desafio007/paisagem-g.png" alt="grande">
+    </picture>
+</body>
+</html>
